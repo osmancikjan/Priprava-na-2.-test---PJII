@@ -1,0 +1,7 @@
+c:\users\johnny\documents\visual studio 2015\Projects\PJII-priprava_na_2_test\PJII-priprava_na_2_test\bin\Debug\PJII-priprava_na_2_test.exe.config
+C:\Users\Johnny\Documents\GitHub\Priprava-na-2.-test---PJII\PJII-priprava_na_2_test\PJII-priprava_na_2_test\bin\Debug\PJII-priprava_na_2_test.exe.config
+C:\Users\Johnny\Documents\GitHub\Priprava-na-2.-test---PJII\PJII-priprava_na_2_test\PJII-priprava_na_2_test\bin\Debug\PJII-priprava_na_2_test.exe
+C:\Users\Johnny\Documents\GitHub\Priprava-na-2.-test---PJII\PJII-priprava_na_2_test\PJII-priprava_na_2_test\bin\Debug\PJII-priprava_na_2_test.pdb
+C:\Users\Johnny\Documents\GitHub\Priprava-na-2.-test---PJII\PJII-priprava_na_2_test\PJII-priprava_na_2_test\obj\Debug\PJII-priprava_na_2_test.csprojResolveAssemblyReference.cache
+C:\Users\Johnny\Documents\GitHub\Priprava-na-2.-test---PJII\PJII-priprava_na_2_test\PJII-priprava_na_2_test\obj\Debug\PJII-priprava_na_2_test.exe
+C:\Users\Johnny\Documents\GitHub\Priprava-na-2.-test---PJII\PJII-priprava_na_2_test\PJII-priprava_na_2_test\obj\Debug\PJII-priprava_na_2_test.pdb
